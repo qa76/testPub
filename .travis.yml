@@ -1,0 +1,4 @@
+sudo: required
+language: python3
+dist: bionic
+scripts: "./test-script.py"
